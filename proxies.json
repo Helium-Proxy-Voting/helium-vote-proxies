@@ -54,5 +54,5 @@
     "description": "Global Expansion",
     "detail": "./proxies/example/detail.md",
     "networks": ["HNT", "MOBILE", "IOT"]
-  },
+  }
 ]
